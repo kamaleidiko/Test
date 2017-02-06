@@ -1,0 +1,20 @@
+Investigating::
+[AppName] is currently slow or unavailable.
+
+Our Engineering team is actively investigating this incident and working o bring [AppName] up as quickly as possible.
+
+Users affected by this incident may notice that [AppName] is slow or completely unavailable in both the web and mobile apps.
+
+We will update this page as we have additional information.
+
+I will give a look once i can get the chance and i will come back with news.
+
+we'll update you once it's done.
+
+It's working fine from our end.
+
+I’m not sure, but let me find out for you.
+
+i just wanted to let you know that we are still investigating the issue. We don't have a solution yet. i will inform as soon as we have found the bug.
+
+

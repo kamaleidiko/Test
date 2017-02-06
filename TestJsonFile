@@ -146,6 +146,7 @@ Json Test sample
 		"events_url": "https://api.github.com/users/kamaleidiko/events{/privacy}",
 		"received_events_url": "https://api.github.com/users/kamaleidiko/received_events",
 		"type": "User",
-		"site_admin": false  
+		"site_admin": false 
+		
 	}
 }

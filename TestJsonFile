@@ -89,7 +89,7 @@ Json Test sample
 		"issue_comment_url": "https://api.github.com/repos/kamaleidiko/Test/issues/comments{/number}",
 		"contents_url": "https://api.github.com/repos/kamaleidiko/Test/contents/{+path}",
 		"compare_url": "https://api.github.com/repos/kamaleidiko/Test/compare/{base}...{head}",
-		"merges_url": "https://api.github.com/repos/kamaleidiko/Test/merges",
+		"merges_url": "https://api.github.com/repos/kamaleidiko/Test/merges", 
 		"archive_url": "https://api.github.com/repos/kamaleidiko/Test/{archive_format}{/ref}",
 		"downloads_url": "https://api.github.com/repos/kamaleidiko/Test/downloads",
 		"issues_url": "https://api.github.com/repos/kamaleidiko/Test/issues{/number}",
@@ -146,6 +146,6 @@ Json Test sample
 		"events_url": "https://api.github.com/users/kamaleidiko/events{/privacy}",
 		"received_events_url": "https://api.github.com/users/kamaleidiko/received_events",
 		"type": "User",
-		"site_admin": false
+		"site_admin": false  
 	}
 }
